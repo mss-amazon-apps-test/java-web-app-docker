@@ -101,13 +101,13 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <name>wallmart-release</name>
+	      <url>http://3.110.224.216:8081/repository/wallmart-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <name>wallmart-snapshot </name>
+	      <url>http://3.110.224.216:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
